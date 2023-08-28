@@ -187,3 +187,4 @@ yarn-error.log*
 .db/test/*
 
 app/static/
+*sqlite3
